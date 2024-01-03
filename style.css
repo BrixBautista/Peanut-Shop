@@ -42,7 +42,7 @@ body{
     @media screen and (max-width:767px){
         /* smartphone */
         text-align: center;
-        font-size: 15px;
+        font-size: 18px;
         margin-right: 0px;
         margin-bottom: 0px;
         top: 20%;
@@ -514,7 +514,7 @@ section{
 #bag{
     @media screen and (max-width:767px){
         /* smartphone */
-        font-size: 13px;
+        font-size: 8px;
         }
 }
 
